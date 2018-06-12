@@ -1,0 +1,9 @@
+c:\users\100035275\documents\visual studio 2015\Projects\SetTimeUTC\SetTimeUTC\bin\Debug\SetTimeUTC.exe.config
+c:\users\100035275\documents\visual studio 2015\Projects\SetTimeUTC\SetTimeUTC\obj\Debug\Gazpar_History.Form1.resources
+c:\users\100035275\documents\visual studio 2015\Projects\SetTimeUTC\SetTimeUTC\obj\Debug\SetTimeUTC.Properties.Resources.resources
+c:\users\100035275\documents\visual studio 2015\Projects\SetTimeUTC\SetTimeUTC\obj\Debug\SetTimeUTC.csproj.GenerateResource.Cache
+c:\users\100035275\documents\visual studio 2015\Projects\SetTimeUTC\SetTimeUTC\obj\Debug\SetTimeUTC.csprojResolveAssemblyReference.cache
+c:\users\100035275\documents\visual studio 2015\Projects\SetTimeUTC\SetTimeUTC\bin\Debug\SetTimeUTC.exe
+c:\users\100035275\documents\visual studio 2015\Projects\SetTimeUTC\SetTimeUTC\bin\Debug\SetTimeUTC.pdb
+c:\users\100035275\documents\visual studio 2015\Projects\SetTimeUTC\SetTimeUTC\obj\Debug\SetTimeUTC.exe
+c:\users\100035275\documents\visual studio 2015\Projects\SetTimeUTC\SetTimeUTC\obj\Debug\SetTimeUTC.pdb
